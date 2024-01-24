@@ -1,7 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: "/", key: "home", label: "Home" },
-  { href: "/", key: "how_hilink_work", label: "How Hilink Work?" },
+  { href: "/", key: "how_hilink_work", label: "How does HiLink Work?" },
   { href: "/", key: "services", label: "Services" },
   { href: "/", key: "pricing ", label: "Pricing " },
   { href: "/", key: "contact_us", label: "Contact Us" },
@@ -32,7 +32,7 @@ export const FEATURES = [
       "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
   },
   {
-    title: "Technology using augment reality",
+    title: "Technology using aument reality",
     icon: "/tech.svg",
     variant: "green",
     description:
@@ -52,7 +52,7 @@ export const FOOTER_LINKS = [
   {
     title: "Learn More",
     links: [
-      "About Hilink",
+      "About HiLink",
       "Press Releases",
       "Environment",
       "Jobs",
