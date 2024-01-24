@@ -1,9 +1,6 @@
 {
     "version": 2,
     "builds": [
-    {
-       "cleanUrls": "false"
-          },
       {
         "src": "next.config.js",
         "use": "@vercel/node"
