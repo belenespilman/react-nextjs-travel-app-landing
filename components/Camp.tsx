@@ -1,8 +1,13 @@
-import React from 'react'
+interface CampProps {
+  backgroundImage: string;
+  title: string;
+  subtitle: string;
+  peopleJoined: string;
+}
 
 const Camps = () => {
   return (
-    <div>Camps</div>
+    <div></div>
   )
 }
 
